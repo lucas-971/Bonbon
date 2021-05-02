@@ -1,0 +1,16 @@
+.card{
+	display:inline-block;
+	margin : 10px;
+	 width: 100%;
+}
+.card{
+	color : black;
+	background-color :#778899;
+	
+}
+h1{
+	color : white;
+}
+.nav{
+	background-color : black;
+}
